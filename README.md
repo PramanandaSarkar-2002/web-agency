@@ -1,0 +1,1 @@
+1. installation propcess  https://tailwindcss.com/docs/installation
